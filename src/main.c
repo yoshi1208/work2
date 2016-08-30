@@ -7,6 +7,7 @@
 
 
 int main(){
+	puts("hennkou");
 	int i;
 	char num[] ="0123456789";
 	char alpha[] ="abcdefghijklmnopqrstuvwxyz";
@@ -55,3 +56,5 @@ int main(){
 	return 0;
 
 }
+
+
